@@ -1,7 +1,7 @@
 
 
 #EXTINF:-1 group-title="myFreeview: TV" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/101.png",TV1
-https://linear08-playback.sooka.my/CH3/masterCH3.mpd
+https://linears-playback.astro.com.my/vsg/419f2iGM0If24kpSkEhmT8ZRktDJgpdh27MoI_I2rWWDw=WSzC/dash-wv/jitp-linearwm/1004/80/video-cif-stream-1-156091732604733.m4f
 
 #EXTINF:-1 group-title="myFreeview: TV" ch-number="102" tvg-id="102" tvg-chno="102" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/102.png",TV2
 https://linear08-playback.sooka.my/CH1/masterCH1.mpd
