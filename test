@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1 , Astro Ria 104
-https://linears-playback.astro.com.my/vsg/419f2iGM0If24kpSkEhmT8ZZmz1xh8-H-ZkAWA_qIq_Ws=lYUz/dash-wv/jitp-linearwm/1004/160/video-cif-stream-4-156091989644733.m4f
+https://linears-playback.astro.com.my/vsg/419f2iGM0If24kpSkEhmT8ZZmz1xh8-H-ZkAWA_qIq_Ws=lYUz/dash-wv/jitp-linearwm/1004/160/video-cif-stream-4-156091989644733.m3u8
+
+#EXTM3U
+#EXTINF:-1 , tv1 hd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/711/169/video-cif-stream-3-156093335414477.m4f
