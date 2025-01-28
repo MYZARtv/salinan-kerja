@@ -1,2 +1,20 @@
-#EXTINF:-1 tvg-id="AstroRia" group-title="malaysia" ch-number="104" tvg-logo="https://aqfadtv.xyz/logos/Astro Ria (2024).png", Ria HD (A)
-https://tinyurl.com/playria0
+#EXTINF:-1 tvg-id="TV1"  tvg-name="TV1 HD" group-title="MYTV" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png", 101 TV1 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vqLQ+J+z+6+h/J80uoc0pg", "kid":"kSdgxAnrWv8+BgQixQL0EA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6GP3FJ5S91Jr90QDTifOjQ", "kid":"977qwgCvQNWIbf6Y1y/PyA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="TV2"  tvg-name="TV2 HD" group-title="MYTV" tvg-logo="https://raw.githubusercontent.com/MYZARtv/Tv/refs/heads/main/png-clipart-tv2-radio-televisyen-malaysia-tv1-logo-tvi-tv2-radio-televisyen-malaysia.png", 102 TV2 
+https://linear08-playback.sooka.my/CH1/masterCH1.mpd
+
+#EXTINF:-1 tvg-id="TV3"  tvg-name="TV3" group-title="MYTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3 (Server 2)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X842T7xEmYVll7GalvRGSA", "kid":"O8Pw5Riu2S6AqYEY5bwsEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
