@@ -1,0 +1,38 @@
+#EXTM3U
+
+# Kategori: Malaysia
+#EXTINF:-1 tvg-id="tv1.my" tvg-name="TV1" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/101.png" group-title="MyFreeview", 101 TV1 HD
+https://linears-playback.astro.com.my/vsg/419f2iGM0If24kpSkEhmT8ZRktDJgpdh27MoI_I2rWWDw=WSzC/dash-wv/jitp-linearwm/1004/80/video-cif-stream-1-156091732604733.m4f
+
+#EXTINF:-1 tvg-id="tv2.my" tvg-name="TV2" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/102.png" group-title="MyFreeview", 102 TV2 HD
+https://linear08-playback.sooka.my/CH1/masterCH1.mpd
+
+#EXTINF:-1 tvg-id="tv3" tvg-name="TV3" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png" group-title="MyFreeview", 103 TV3 HD
+https://web.hypp.tv/PLTV/88888888/224/3221227779/3221227779.mpd?accountinfo=00m%2FA1gVngRZDLAcDG2%2BMWHgJ1pKvt1lRjGVuBjPOXv2AdOKWgIh5IEiDm%2FM0j6I0o%2FoIw83oXLZFVYSQnBBI%2FiKpnGDOVh7xgstdkkeZwTJycHE0IqZBvG%2BXsudj34k%3A20240728232643%3AUTC%2C10001002674171%2C1.1.1.1%2C20240728232643%2Curn:Huawei:liveTV:iptv182%2C10001002674171%2C-1%2C0%2C1%2C%2C%2C2%2C88%2C%2C%2C2%2C10000105575216%2C0%2C10000104356656%2C4165497230%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6001
+
+#EXTINF:-1 tvg-id="astroria" tvg-name="astro ria" tvg-logo="https://aqfadtv.xyz/logos/Astro Ria (2024).png" group-title="Astro", 104 Ria HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
+https://tinyurl.com/playria0
+
+#EXTINF:-1 tvg-id="astroprima" tvg-name="astro prima" tvg-logo="https://aqfadtv.xyz/logos/Astro Prima (2024).png" group-title="Astro", 105 Prima HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
+https://tinyurl.com/playprim0
+
+#EXTINF:-1 tvg-id="astro oasis" tvg-name="astro oasis" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/Astro_Oasis.png/revision/latest?cb=20180622071546" group-title="Astro", 106 Oasis HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2505/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
+
+#EXTINF:-1 tvg-id="astro citra" tvg-name="astro citra" tvg-logo="https://aqfadtv.xyz/logos/Astro Citra (2024).png" group-title="Astro", 108 Citra HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
+https://tinyurl.com/playcit0
